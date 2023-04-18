@@ -1,0 +1,270 @@
+﻿id,country,currency,currency_code,exchange_rate
+1,Afghanistan,Afghani,AFN,77.11
+2,Albania,Lek,ALL,105.18
+3,Algeria,Algerian Dinar,DZD,129.29
+4,American Samoa,US Dollar,USD,1
+5,Andorra,Euro,EUR,0.85
+6,Angola,Kwanza,AOA,646.01
+7,Anguilla,East Caribbean Dollar,XCD,2.71
+8,Antarctica,No universal currency,USD,0
+9,Antigua And Barbuda,East Caribbean Dollar,XCD,2.71
+10,Argentina,Argentine Peso,ARS,77.31
+11,Armenia,Armenian Dram,AMD,492.23
+12,Aruba,Aruban Florin,AWG,1.8
+13,Australia,Australian Dollar,AUD,1.38
+14,Austria,Euro,EUR,0.85
+15,Azerbaijan,Azerbaijanian Manat,AZN,1.71
+16,Bahamas (The),Bahamian Dollar,BSD,1
+17,Bahrain,Bahraini Dinar,BHD,0.38
+18,Bangladesh,Taka,BDT,84.97
+19,Barbados,Barbados Dollar,BBD,2.02
+20,Belarus,Belarussian Ruble,BYN,2.58
+21,Belgium,Euro,EUR,0.85
+22,Belize,Belize Dollar,BZD,2.02
+23,Benin,CFA Franc BCEAO,XOF,559.46
+24,Bermuda,Bermudian Dollar,BMD,1
+25,Bhutan,Ngultrum,BTN,73.3
+26,Bhutan,Indian Rupee,INR,73.15
+27,Bolivia (Plurinational State Of),Boliviano,BOB,6.92
+28,Bolivia (Plurinational State Of),Mvdol,BOV,0
+29,"Bonaire, Sint Eustatius And Saba",US Dollar,USD,1
+30,Bosnia And Herzegovina,Convertible Mark,BAM,1.66
+31,Botswana,Pula,BWP,11.48
+32,Bouvet Island,Norwegian Krone,NOK,9.16
+33,Brazil,Brazilian Real,BRL,5.54
+34,British Indian Ocean Territory (The),US Dollar,USD,1
+35,Brunei Darussalam,Brunei Dollar,BND,1.36
+36,Bulgaria,Bulgarian Lev,BGN,1.66
+37,Burkina Faso,CFA Franc BCEAO,XOF,559.46
+38,Burundi,Burundi Franc,BIF,1940.06
+39,Cabo Verde,Cabo Verde Escudo,CVE,93.85
+40,Cambodia,Riel,KHR,4113.23
+41,Cameroon,CFA Franc BEAC,XAF,557.28
+42,Canada,Canadian Dollar,CAD,1.32
+43,Cayman Islands (The),Cayman Islands Dollar,KYD,0.84
+44,Central African Republic (The),CFA Franc BEAC,XAF,557.28
+45,Chad,CFA Franc BEAC,XAF,557.28
+46,Chile,Unidad de Fomento,CLF,0.03
+47,Chile,Chilean Peso,CLP,796.78
+48,China,Yuan Renminbi,CNY,6.71
+49,Christmas Island,Australian Dollar,AUD,1.38
+50,Cocos (Keeling) Islands (The),Australian Dollar,AUD,1.38
+51,Colombia,Colombian Peso,COP,3838.01
+52,Colombia,Unidad de Valor Real,COU,0
+53,Comoros (The),Comoro Franc,KMF,417.59
+54,Congo (The Democratic Republic Of The),Congolese Franc,CDF,1820.25
+55,Congo (The),CFA Franc BEAC,XAF,557.28
+56,Cook Islands (The),New Zealand Dollar,NZD,1.5
+57,Costa Rica,Costa Rican Colon,CRC,604.84
+58,Croatia,Kuna,HRK,6.42
+59,Cuba,Peso Convertible,CUC,1
+60,Cuba,Cuban Peso,CUP,26.57
+61,Curaçao,Netherlands Antillean Guilder,ANG,1.8
+62,Cyprus,Euro,EUR,0.85
+63,Czech Republic (The),Czech Koruna,CZK,22.9
+64,Côte D'Ivoire,CFA Franc BCEAO,XOF,559.46
+65,Denmark,Danish Krone,DKK,6.31
+66,Djibouti,Djibouti Franc,DJF,178.19
+67,Dominica,East Caribbean Dollar,XCD,2.71
+68,Dominican Republic (The),Dominican Peso,DOP,58.66
+69,Ecuador,US Dollar,USD,1
+70,Egypt,Egyptian Pound,EGP,15.74
+71,El Salvador,El Salvador Colon,SVC,8.77
+72,El Salvador,US Dollar,USD,1
+73,Equatorial Guinea,CFA Franc BEAC,XAF,557.28
+74,Eritrea,Nakfa,ERN,15.04
+75,Estonia,Euro,EUR,0.85
+76,Ethiopia,Ethiopian Birr,ETB,37.05
+77,European Union,Euro,EUR,0.85
+78,Falkland Islands (The) [Malvinas],Falkland Islands Pound,FKP,0.77
+79,Faroe Islands (The),Danish Krone,DKK,6.31
+80,Fiji,Fiji Dollar,FJD,2.15
+81,Finland,Euro,EUR,0.85
+82,France,Euro,EUR,0.85
+83,French Guiana,Euro,EUR,0.85
+84,French Polynesia,CFP Franc,XPF,101.62
+85,French Southern Territories (The),Euro,EUR,0.85
+86,Gabon,CFA Franc BEAC,XAF,557.28
+87,Gambia (The),Dalasi,GMD,51.9
+88,Georgia,Lari,GEL,3.21
+89,Germany,Euro,EUR,0.85
+90,Ghana,Ghana Cedi,GHS,5.84
+91,Gibraltar,Gibraltar Pound,GIP,0.77
+92,Greece,Euro,EUR,0.85
+93,Greenland,Danish Krone,DKK,6.31
+94,Grenada,East Caribbean Dollar,XCD,2.71
+95,Guadeloupe,Euro,EUR,0.85
+96,Guam,US Dollar,USD,1
+97,Guatemala,Quetzal,GTQ,7.8
+98,Guernsey,Pound Sterling,GBP,0.77
+99,Guinea,Guinea Franc,GNF,9790.53
+100,Guinea-Bissau,CFA Franc BCEAO,XOF,559.46
+101,Guyana,Guyana Dollar,GYD,209.78
+102,Haiti,Gourde,HTG,63.54
+103,Haiti,US Dollar,USD,1
+104,Heard Island And Mcdonald Islands,Australian Dollar,AUD,1.38
+105,Holy See (The),Euro,EUR,0.85
+106,Honduras,Lempira,HNL,24.66
+107,Hong Kong,Hong Kong Dollar,HKD,7.77
+108,Hungary,Forint,HUF,301.89
+109,Iceland,Iceland Krona,ISK,138.23
+110,India,Indian Rupee,INR,73.15
+111,Indonesia,Rupiah,IDR,14716.1
+112,International Monetary Fund (Imf) ,SDR (Special Drawing Right),XDR,0.71
+113,Iran (Islamic Republic Of),Iranian Rial,IRR,42215.08
+114,Iraq,Iraqi Dinar,IQD,1193.11
+115,Ireland,Euro,EUR,0.85
+116,Isle Of Man,Pound Sterling,GBP,0.77
+117,Israel,New Israeli Sheqel,ILS,3.39
+118,Italy,Euro,EUR,0.85
+119,Jamaica,Jamaican Dollar,JMD,143.89
+120,Japan,Yen,JPY,105.91
+121,Jersey,Pound Sterling,GBP,0.77
+122,Jordan,Jordanian Dinar,JOD,0.71
+123,Kazakhstan,Tenge,KZT,428.45
+124,Kenya,Kenyan Shilling,KES,108.84
+125,Kiribati,Australian Dollar,AUD,1.38
+126,Korea (The Democratic People’S Republic Of),North Korean Won,KPW,902.35
+127,Korea (The Republic Of),Won,KRW,1146.63
+128,Kuwait,Kuwaiti Dinar,KWD,0.31
+129,Kyrgyzstan,Som,KGS,79.82
+130,Lao People’S Democratic Republic (The),Kip,LAK,9254.13
+131,Latvia,Euro,EUR,0.85
+132,Lebanon,Lebanese Pound,LBP,1520.97
+133,Lesotho,Loti,LSL,16.5
+134,Lesotho,Rand,ZAR,16.5
+135,Liberia,Liberian Dollar,LRD,198.82
+136,Libya,Libyan Dinar,LYD,1.38
+137,Liechtenstein,Swiss Franc,CHF,0.91
+138,Lithuania,Euro,EUR,0.85
+139,Luxembourg,Euro,EUR,0.85
+140,Macao,Pataca,MOP,8
+141,Madagascar,Malagasy Ariary,MGA,3905.18
+142,Malawi,Kwacha,MWK,756.48
+143,Malaysia,Malaysian Ringgit,MYR,4.15
+144,Maldives,Rufiyaa,MVR,15.45
+145,Mali,CFA Franc BCEAO,XOF,559.46
+146,Malta,Euro,EUR,0.85
+147,Marshall Islands (The),US Dollar,USD,1
+148,Martinique,Euro,EUR,0.85
+149,Mauritania,Ouguiya,MRU,0
+150,Mauritius,Mauritius Rupee,MUR,39.84
+151,Mayotte,Euro,EUR,0.85
+152,Member Countries Of The African Development Bank Group,ADB Unit of Account,XUA,0
+153,Mexico,Mexican Peso,MXN,21.19
+154,Mexico,Mexican Unidad de Inversion (UDI),MXV,0
+155,Micronesia (Federated States Of),US Dollar,USD,1
+156,Moldova (The Republic Of),Moldovan Leu,MDL,16.98
+157,Monaco,Euro,EUR,0.85
+158,Mongolia,Tugrik,MNT,2864.96
+159,Montenegro,Euro,EUR,0.85
+160,Montserrat,East Caribbean Dollar,XCD,2.71
+161,Morocco,Moroccan Dirham,MAD,9.21
+162,Mozambique,Mozambique Metical,MZN,72.78
+163,Myanmar,Kyat,MMK,1281.48
+164,Namibia,Namibia Dollar,NAD,16.59
+165,Namibia,Rand,ZAR,16.5
+166,Nauru,Australian Dollar,AUD,1.38
+167,Nepal,Nepalese Rupee,NPR,117.28
+168,Netherlands (The),Euro,EUR,0.85
+169,New Caledonia,CFP Franc,XPF,101.62
+170,New Zealand,New Zealand Dollar,NZD,1.5
+171,Nicaragua,Cordoba Oro,NIO,34.74
+172,Niger (The),CFA Franc BCEAO,XOF,559.46
+173,Nigeria,Naira,NGN,384
+174,Niue,New Zealand Dollar,NZD,1.5
+175,Norfolk Island,Australian Dollar,AUD,1.38
+176,Northern Mariana Islands (The),US Dollar,USD,1
+177,Norway,Norwegian Krone,NOK,9.16
+178,Oman,Rial Omani,OMR,0.39
+179,Pakistan,Pakistan Rupee,PKR,164.18
+180,Palau,US Dollar,USD,1
+181,"Palestine, State Of",No universal currency,USD,0
+182,Panama,Balboa,PAB,1
+183,Panama,US Dollar,USD,1
+184,Papua New Guinea,Kina,PGK,3.51
+185,Paraguay,Guarani,PYG,7022.82
+186,Peru,Nuevo Sol,PEN,3.59
+187,Philippines (The),Philippine Peso,PHP,48.49
+188,Pitcairn,New Zealand Dollar,NZD,1.5
+189,Poland,Zloty,PLN,3.79
+190,Portugal,Euro,EUR,0.85
+191,Puerto Rico,US Dollar,USD,1
+192,Qatar,Qatari Rial,QAR,3.65
+193,Republic Of North Macedonia,Denar,MKD,52.35
+194,Romania,Romanian Leu,RON,4.13
+195,Russian Federation (The),Russian Ruble,RUB,76.97
+196,Rwanda,Rwanda Franc,RWF,975.04
+197,Réunion,Euro,EUR,0.85
+198,Saint Barthélemy,Euro,EUR,0.85
+199,"Saint Helena, Ascension And Tristan Da Cunha",Saint Helena Pound,SHP,0.77
+200,Saint Kitts And Nevis,East Caribbean Dollar,XCD,2.71
+201,Saint Lucia,East Caribbean Dollar,XCD,2.71
+202,Saint Martin (French Part),Euro,EUR,0.85
+203,Saint Pierre And Miquelon,Euro,EUR,0.85
+204,Saint Vincent And The Grenadines,East Caribbean Dollar,XCD,2.71
+205,Samoa,Tala,WST,2.67
+206,San Marino,Euro,EUR,0.85
+207,Sao Tome And Principe,Dobra,STN,0
+208,Saudi Arabia,Saudi Riyal,SAR,3.76
+209,Senegal,CFA Franc BCEAO,XOF,559.46
+210,Serbia,Serbian Dinar,RSD,99.71
+211,Seychelles,Seychelles Rupee,SCR,18.65
+212,Sierra Leone,Leone,SLE,0
+213,Singapore,Singapore Dollar,SGD,1.36
+214,Sint Maarten (Dutch Part),Netherlands Antillean Guilder,ANG,1.8
+215,"Sistema Unitario De Compensacion Regional De Pagos ""Sucre""",Sucre,XSU,0
+216,Slovakia,Euro,EUR,0.85
+217,Slovenia,Euro,EUR,0.85
+218,Solomon Islands,Solomon Islands Dollar,SBD,8.15
+219,Somalia,Somali Shilling,SOS,584.52
+220,South Africa,Rand,ZAR,16.5
+221,South Georgia And The South Sandwich Islands,No universal currency,USD,0
+222,South Sudan,South Sudanese Pound,SSP,0
+223,Spain,Euro,EUR,0.85
+224,Sri Lanka,Sri Lanka Rupee,LKR,184.7
+225,Sudan (The),Sudanese Pound,SDG,55.42
+226,Suriname,Surinam Dollar,SRD,14.19
+227,Svalbard And Jan Mayen,Norwegian Krone,NOK,9.16
+228,Swaziland,Lilangeni,SZL,16.5
+229,Sweden,Swedish Krona,SEK,8.81
+230,Switzerland,WIR Euro,CHE,0
+231,Switzerland,Swiss Franc,CHF,0.91
+232,Switzerland,WIR Franc,CHW,0
+233,Syrian Arab Republic,Syrian Pound,SYP,513.36
+234,Taiwan (Province Of China),New Taiwan Dollar,TWD,28.69
+235,Tajikistan,Somoni,TJS,10.35
+236,"Tanzania, United Republic Of",Tanzanian Shilling,TZS,2326.33
+237,Thailand,Baht,THB,31.07
+238,Timor-Leste,US Dollar,USD,1
+239,Togo,CFA Franc BCEAO,XOF,559.46
+240,Tokelau,New Zealand Dollar,NZD,1.5
+241,Tonga,Pa’anga,TOP,2.32
+242,Trinidad And Tobago,Trinidad and Tobago Dollar,TTD,6.79
+243,Tunisia,Tunisian Dinar,TND,2.76
+244,Turkey,Turkish Lira,TRY,7.88
+245,Turkmenistan,Turkmenistan New Manat,TMT,3.51
+246,Turks And Caicos Islands (The),US Dollar,USD,1
+247,Tuvalu,Australian Dollar,AUD,1.38
+248,Uganda,Uganda Shilling,UGX,3712.6
+249,Ukraine,Hryvnia,UAH,28.28
+250,United Arab Emirates (The),UAE Dirham,AED,3.68
+251,United Kingdom Of Great Britain And Northern Ireland (The),Pound Sterling,GBP,0.77
+252,United States Minor Outlying Islands (The),US Dollar,USD,1
+253,United States Of America (The),US Dollar,USD,1
+254,United States Of America (The),US Dollar (Next day),USN,0
+255,Uruguay,Uruguay Peso en Unidades Indexadas (URUIURUI),UYI,0
+256,Uruguay,Peso Uruguayo,UYU,42.64
+257,Uzbekistan,Uzbekistan Sum,UZS,10346.98
+258,Vanuatu,Vatu,VUV,113.15
+259,Venezuela (Bolivarian Republic Of),Bolivar,VEF,10.01
+260,Venezuela (Bolivarian Republic Of),Bolivar,VED,0
+261,Viet Nam,Dong,VND,23245.61
+262,Virgin Islands (British),US Dollar,USD,1
+263,Virgin Islands (U.S.),US Dollar,USD,1
+264,Wallis And Futuna,CFP Franc,XPF,101.62
+265,Western Sahara,Moroccan Dirham,MAD,9.21
+266,Yemen,Yemeni Rial,YER,251
+267,Zambia,Zambian Kwacha,ZMW,20.18
+268,Zimbabwe,Zimbabwe Dollar,ZWL,306.69
+269,Åland Islands,Euro,EUR,0.85
