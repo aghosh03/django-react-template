@@ -1,0 +1,41 @@
+{# Load CSS and JavaScript for bootstrap #}
+{% load django_bootstrap5 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+    <title>Django App Template</title>
+</head>
+<body>
+    <div class="container" style="margin: auto; width: 100%;">
+        <div id="header" class="row border-bot-1-light" style="margin: auto; width: 100%; height: 75px; padding-top: 5px;">
+
+            <div class="col-10">
+                <img src="{% static 'images/nleyetn_logo.jpg' %}#logo" height="60">
+            </div>
+            
+            <div class="col-2 text-right">
+                <a href="{% url 'backend:index' %}">
+                    <img src="{% static 'images/home_icon.svg' %}#home" alt="Home" height="50">
+                </a>
+                
+                <a href="{% url 'backend:settings' %}">
+                    <img src="{% static 'images/settings_icon.svg' %}#settings" alt="Settings" height="50">
+                </a>
+            </div>
+        </div>
+
+        <div id="body" class="row mt-5" style="margin: auto; width: 100%;">
+            {% block content %}{% endblock %}
+        </div>
+
+    </div>
+</body>
+</html>

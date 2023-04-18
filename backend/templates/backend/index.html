@@ -1,0 +1,11 @@
+{% extends 'backend/base.html' %}
+
+{% block content %}
+    <form>
+        {% csrf_token %}
+        <div id="root"></div>
+        {% load static %}
+        <script id = "react_window" src="{% static 'index-bundle.js' %}"></script>
+    </form>
+
+{% endblock content %}
